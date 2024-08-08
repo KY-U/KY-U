@@ -1,6 +1,8 @@
-## Hi there 👋
+![Banner](https://i.imgur.com/n3wUA2L.png)
 
 <!--
+## Hi there 👋
+
 **KY-U/KY-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
