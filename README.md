@@ -1,7 +1,7 @@
 ![Banner](https://i.imgur.com/n3wUA2L.png)
 
-:desktop_computer: Software Enginner in the Making
-:books: Computer Science Student at UFSCAR
+- :desktop_computer: Software Enginner in the Making
+- :books: Computer Science Student at UFSCAR
 
 # Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
