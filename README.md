@@ -17,11 +17,14 @@
 # Contact: 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:uscaio@estudante.ufscar) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-ueda-sampaio-23511b253/) 
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KY-U&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KY-U&layout=compact&theme=radical)
-
+-->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KY-U&show_icons=true&theme=radical" width="50%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KY-U&layout=compact&theme=radical" width="50%" />
+</p>
 
 <!--
 ## Hi there 👋
