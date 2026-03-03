@@ -1,9 +1,11 @@
 ![Banner](https://i.imgur.com/n3wUA2L.png)
 
-- :desktop_computer: Software Enginner in the Making
-- :books: Computer Science Student at UFSCAR
+- :desktop_computer: Software Engineer in the Making
+- :books: Computer Science alumnus of UFSCar
+- :open_file_folder: Building, breaking, and learning through open source
+- :zap: Currently studying and contributing to ₿itcoin open-source projects
 
-# Stack:
+# Technologies I've Worked With
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -13,18 +15,11 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-# Contact: 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:uscaio@estudante.ufscar) 
+# Let's connect! 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arcocaio10@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-ueda-sampaio-23511b253/) 
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KY-U&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KY-U&layout=compact&theme=radical)
--->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KY-U&show_icons=true&theme=radical" width="50%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KY-U&layout=compact&theme=radical" width="50%" />
-</p>
 
 <!--
 ## Hi there 👋
