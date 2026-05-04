@@ -3,10 +3,10 @@
 </p>
 
 
-<kbd>
-    :beginner: Vinteum Fellow 
-</kbd>
-<kbd>
-    :zap: Studying and contributing to ₿itcoin open-source projects
-</kbd>
-
+<h3 style="text-align: center;">
+    <samp>
+        :beginner: Vinteum Fellow
+        <br>
+        :zap: Studying and contributing to ₿itcoin open-source projects
+    </samp>
+</h3>
