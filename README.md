@@ -1,4 +1,5 @@
-![Banner](https://i.imgur.com/n3wUA2L.png)
+<!-- ![Banner](https://i.imgur.com/n3wUA2L.png) -->
+![Banner](sicp_banner.jpg)
 
 - :books: Computer Science alumnus of UFSCar
 - :open_file_folder: Building, breaking, and learning through open source
